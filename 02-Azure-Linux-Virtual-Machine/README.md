@@ -43,4 +43,6 @@ Private Key: terraform-azure.pem
 
 # Permissions for Pem file
 chmod 400 terraform-azure.pem
-```
+
+Linux VM Achitecture design
+![Azure-linux-VM](https://user-images.githubusercontent.com/105049520/176507472-de50fe95-b555-4dd2-801e-20feca0de6eb.JPG)
