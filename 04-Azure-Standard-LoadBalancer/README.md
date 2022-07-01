@@ -9,3 +9,6 @@ Azure Standard Load Balancer using Terraform
 4. azurerm_lb_probe
 5. azurerm_lb_rule
 6. azurerm_network_interface_backend_address_pool_association
+
+# Load Balancer Design
+![AzureLoadBalancer](https://user-images.githubusercontent.com/105049520/176902451-bf9ac092-1edf-4085-a62e-a12d5dc80fc9.JPG)
