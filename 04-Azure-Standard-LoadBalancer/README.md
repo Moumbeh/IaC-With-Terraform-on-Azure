@@ -12,3 +12,6 @@ Azure Standard Load Balancer using Terraform
 
 # Load Balancer Design
 ![AzureLoadBalancer](https://user-images.githubusercontent.com/105049520/176902451-bf9ac092-1edf-4085-a62e-a12d5dc80fc9.JPG)
+
+# Load Balancer Flow
+![AzureLBrule](https://user-images.githubusercontent.com/105049520/176902876-cf63c5bf-fdb3-4a1c-b495-b4657766348e.JPG)
