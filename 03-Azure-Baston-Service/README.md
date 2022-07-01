@@ -50,3 +50,6 @@ azurerm_bastion_host.bastion_host: Still creating... [11m10s elapsed]
 azurerm_bastion_host.bastion_host: Still creating... [11m20s elapsed]
 azurerm_bastion_host.bastion_host: Still creating... [11m30s elapsed]
 azurerm_bastion_host.bastion_host: Creation complete after 11m35s 
+
+Azure Baston Service Design
+![AzureBastionNetwork](https://user-images.githubusercontent.com/105049520/176783533-a6af9457-26ba-47ab-b43a-6ffa41798d8b.JPG)
