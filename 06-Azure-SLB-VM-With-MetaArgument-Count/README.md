@@ -5,3 +5,6 @@ I will deploy Azure standard load balancer inbound NAT Rule with multiple VMs Us
 - Terraform Meta-Argument Count
 - Terraform Splat Expression
 - Terraform Element Function
+
+# SLB with Meta Argument design
+![AzureSLBwithMetaArguement](https://user-images.githubusercontent.com/105049520/177142758-78334ea1-27f8-47d5-925d-2b7cd51b0ff1.JPG)
