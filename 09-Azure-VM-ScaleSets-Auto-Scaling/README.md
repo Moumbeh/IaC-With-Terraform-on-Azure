@@ -37,3 +37,6 @@ t7-06-web-linux-vmss-autoscalling-recurrence-profile has been commented out cont
 1. `Percentage CPU` Increase and Decrease Rule
 2. `Available Memory Bytes` Increase and Decrease Rule
 3. LB `SYN Count` Increase and Decrease Rule
+
+# Design
+![AzureVMSSManualtopology](https://user-images.githubusercontent.com/105049520/177288476-5a3bdc1e-c625-430e-aad2-01c2f17e99a8.JPG)
