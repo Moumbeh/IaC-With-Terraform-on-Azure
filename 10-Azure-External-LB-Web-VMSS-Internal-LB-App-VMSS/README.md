@@ -57,3 +57,9 @@ description: Create Azure Internal Load Balancer using Terraform
 ### New Files: App Load Balancer (Internal Standard Load Balancer)
 1. t13-02-app-loadbalancer-resource.tf
 2. t13-03-app-loadbalancer-outputs.tf
+
+# Azure Internal and External load Balancer design
+![azure-external-internal-lb](https://user-images.githubusercontent.com/105049520/177650763-039ad988-d2e3-4684-b166-63ca53dd91f8.JPG)
+
+# Azure LB Flow
+![azure-external-internal-lb-flow](https://user-images.githubusercontent.com/105049520/177651048-d5b20c36-cbd6-4f5e-a1cd-74cea70df21e.JPG)
