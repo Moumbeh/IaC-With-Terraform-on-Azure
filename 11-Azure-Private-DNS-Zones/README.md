@@ -17,3 +17,6 @@
 
 ### Update to Files
 1. app-scripts/app1.conf
+
+# Azure Private DNS, Internal and External load Balancer design
+![azure-external-internal-lb](https://user-images.githubusercontent.com/105049520/177650763-039ad988-d2e3-4684-b166-63ca53dd91f8.JPG)
